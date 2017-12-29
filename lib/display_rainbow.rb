@@ -6,5 +6,3 @@ puts "The fourth color on the list is: #{colors[3]}"
 puts "The fifth color on the list is: #{colors[4]}"
 puts "The sixth color on the list is: #{colors[5]}"
 puts "The seventh color on the list is: #{colors[6]}"
-
-
