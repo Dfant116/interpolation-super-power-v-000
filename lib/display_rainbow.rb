@@ -1,4 +1,4 @@
-def display_rainbow
+def display_rainbow(colors)
   colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
   puts "The first color on the list is: #{colors[0]}"
   puts "The second color on the list is: #{colors[1]}"
