@@ -8,5 +8,3 @@ def display_rainbow
   puts "The sixth color on the list is: #{colors[5]}"
   puts "The seventh color on the list is: #{colors[6]}"
 end
-
-
